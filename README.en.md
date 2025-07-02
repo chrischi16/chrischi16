@@ -71,4 +71,5 @@ Focus: UX, small clever systems, and a polished core prototype.
 ## 📬 Contact
 
 📧 **Email:** `christoph16hd@hotmail.com`  
-💬 Also reachable via Discord – feel free to ask for my tag!
+💬 Also reachable via Discord – feel free to ask for my tag!  
+🎮 **Itch-IO:** [Itch.io Portfolio](https://chr3s.itch.io)  
