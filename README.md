@@ -44,7 +44,7 @@ Ich bin ein deutscher Student im Bereich **Computer Games** und **Computer Scien
 ## 🎮 Lieblingsgenres
 
 💡 **Real-Time Strategy (RTS)**  
-🥋 **Kampfkunst-Games**
+🥋 **Kampfkunst-Games**  
 🔧 **Tiefgehende Sandbox-Spiele**
 
 ---
@@ -73,8 +73,8 @@ Ich arbeite aktuell an einem **kleinen Hobbygame**, bei dem gerade ein **Prototy
 ## 📬 Kontakt
 
 📧 **E-Mail:** `christoph16hd@hotmail.com`  
-💬 Gerne auch über Discord – einfach per Mail oder GitHub anfragen!
-🎮 **Itch-IO:** [Itch.io Portfolio](https://chr3s.itch.io)
+💬 Gerne auch über Discord – einfach per Mail oder GitHub anfragen!  
+🎮 **Itch-IO:** [Itch.io Portfolio](https://chr3s.itch.io)  
 
 
 <!--
