@@ -74,6 +74,7 @@ Ich arbeite aktuell an einem **kleinen Hobbygame**, bei dem gerade ein **Prototy
 
 📧 **E-Mail:** `christoph16hd@hotmail.com`  
 💬 Gerne auch über Discord – einfach per Mail oder GitHub anfragen!
+🎮 **Itch-IO:** [Itch.io Portfolio](https://chr3s.itch.io)
 
 
 <!--
