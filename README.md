@@ -12,7 +12,7 @@
 
 ## 👋 Hallo!
 
-Ich bin ein deutscher Student im Bereich **Computer Games** und **Computer Science** – voller Begeisterung für Spieleentwicklung, Design und Projektmanagement.
+Ich bin Student im Bereich **Computer Games** und **Computer Science** – voller Begeisterung für Spieleentwicklung, Design und Projektmanagement.
 
 ---
 
