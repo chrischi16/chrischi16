@@ -12,7 +12,7 @@
 
 ## 👋 Hallo!
 
-Ich bin Student im Bereich **Computer Games** und **Computer Science** – voller Begeisterung für Spieleentwicklung, Design und Projektmanagement.
+Ich bin Student im Bereich **Computer Games** und **Computer Science** – voller Begeisterung für Softwareentwicklung, Mediengestaltung und Projektmanagement.
 
 ---
 
@@ -38,23 +38,6 @@ Ich bin Student im Bereich **Computer Games** und **Computer Science** – volle
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" />
 </p>
-
----
-
-## 🎮 Lieblingsgenres
-
-💡 **Real-Time Strategy (RTS)**  
-🥋 **Kampfkunst-Games**  
-🔧 **Tiefgehende Sandbox-Spiele**
-
----
-
-## 🚧 Aktuelles Projekt
-
-Ich arbeite aktuell an einem **kleinen Hobbygame**, bei dem gerade ein **Prototyp in Entwicklung** ist.  
-🎯 Fokus liegt auf User Experience, kleinen cleveren Mechaniken und Feature-Fokus.
-
-➡️ Release geplant auf **itch.io** oder **Steam** *(abhängig vom Fortschritt)*
 
 ---
 
